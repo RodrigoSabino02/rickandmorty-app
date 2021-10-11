@@ -1,46 +1,74 @@
-# Getting Started with Create React App
+<p align="center">
+  <img width="434" height="127" src="https://github.com/RodrigoSabino02/rickandmorty-app/blob/main/src/assets/banner.png">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  Made with :coffee: by <a href="https://www.linkedin.com/in/rodrigo-sabino/" target="_blank"> RodrigoSabino </a> 
+</p>
 
-## Available Scripts
+__<p align="center">o  Rick and morty app foi desenvolvido para todos os fãs da serie</p>__
 
-In the project directory, you can run:
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/RodrigoSabino02/rickandmorty-app"> 
+  <img src="https://img.shields.io/github/languages/top/RodrigoSabino02/rickandmorty-app"> 
+  <img src="https://img.shields.io/github/languages/count/RodrigoSabino02/rickandmorty-app"> 
+  <img src="https://img.shields.io/github/repo-size/RodrigoSabino02/rickandmorty-app"> 
+  <img src="https://img.shields.io/badge/License-MIT-green.svg"> 
+</p>
 
-### `yarn start`
+<div align="center">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  [Technologies](#construction_worker-built-with) | 
+  [API](#globe_with_meridians-api) | 
+  [How to run](#triangular_flag_on_post-how-to-run) |
+  [License](#label-license)
+  
+</div>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<hr>
+<p align="center">
+  <img src="https://media.giphy.com/media/HZfk2AFYnFp2gf5vTH/giphy.gif" width="800" height="400"/>
+</p>
 
-### `yarn test`
+## :pushpin: Description
+<p>
+  The Rick and Morty app was developed for all fans of the series to see the order of episodes for each season.
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :construction_worker: Built with
+<ul>
+    <li><a href="https://pt-br.reactjs.org/">React.js</a></li>
+    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/typescript">Javascript</a></li>
+    <li><a href="https://sass-lang.com/">Sass</a></li>
+    <li><a href="https://www.npmjs.com/package/axios">Axios</a></li>
+</ul>
 
-### `yarn build`
+## :globe_with_meridians: API
+<p> A free Rick and morty API, no APIkey needed - <a href="https://rickandmortyapi.com/"> Rick and morty API </a></p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## :triangular_flag_on_post: How to run 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p>you need to clone the repository and then run the application</p>
 
-### `yarn eject`
+``` 
+// Clone the repository:
+$ git clone 'https://github.com/RodrigoSabino02/rickandmorty-app.git'
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+// Go into the folder
+$ cd rickandmorty-app
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+// Install frontend dependencies
+$ yarn install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+// Run the application
+$ yarn start
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## :label: License
+<ul>
+  <li> MIT License -<a href="https://github.com/RodrigoSabino02/rickandmorty-app/blob/main/LICENSE"> About </a></li>
+</ul>
