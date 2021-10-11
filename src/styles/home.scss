@@ -1,0 +1,27 @@
+#first-button {
+    margin-right: 20px;
+   
+}
+
+.container{
+    display: flex;
+
+    .content{
+
+        h2 {
+            font-family: Roboto;
+            font-weight: bold;
+            font-size: 50px;
+            text-align: center;
+            margin-left: 30px;
+            
+        }
+
+        .buttons{
+            margin-top: 20px;
+            margin-left: 160px;
+        }
+    }
+
+
+}
